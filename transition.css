@@ -1,0 +1,4 @@
+button:hover{
+    background-color: aqua;
+    transition-duration: 1s;
+}
