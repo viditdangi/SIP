@@ -1,8 +1,8 @@
 //Q.8
 
 const customers = [
-  { customer: "John", amount: 50000 },
-  { customer: "Emma", amount: 20000 }
+  { customer: "Sundarlaal", amount: 50000 },
+  { customer: "ram", amount: 20000 }
 ];
 
 const totalSpending = customers.reduce(

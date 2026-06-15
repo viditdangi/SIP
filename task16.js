@@ -1,6 +1,6 @@
 //Q.16
 
-const name = ["john", "emma", "alex"];
+const name = ["Rohit", "Mohit", "Prohit"];
 
 const upperCase = name
 .map(naam => naam.toUpperCase());

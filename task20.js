@@ -1,9 +1,9 @@
 //Q.20
 
 const results = [
-    { name: "John", marks: 80 }, 
-    { name: "Emma", marks: 40 }, 
-    { name: "Alex", marks: 70 } 
+    { name: "Ram ", marks: 80 }, 
+    { name: "Rohit", marks: 40 }, 
+    { name: "Andy", marks: 70 } 
 ]
 
 const passStudents = results

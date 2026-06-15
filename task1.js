@@ -1,7 +1,7 @@
 //Q.1
 const students = [
-  { name: "John", marks: [80, 90, 85] },
-  { name: "Emma", marks: [95, 92, 98] }
+  { name: "Ronny", marks: [80, 90, 85] },
+  { name: "Ghanshyam", marks: [95, 92, 98] }
 ];
 
 const averages = students.map(student => ({
